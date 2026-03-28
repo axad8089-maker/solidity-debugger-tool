@@ -1,6 +1,6 @@
 {
-  "name": "solidity-debugger-nexus",
-  "displayName": "Solidity Debugger Nexus",
+  "name": "solidity-debugger-tool",
+  "displayName": "Solidity Debugger Tool",
   "version": "1.0.6",
   "publisher": "jjweb",
   "description": "A smart contract debugging tool for Visual Studio Code.",

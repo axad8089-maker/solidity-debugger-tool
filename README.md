@@ -1,4 +1,4 @@
-# Solidity Debugger Nexus
+# Solidity Debugger Tool
 
 A debugging tool for Visual Studio Code.
 
@@ -17,7 +17,7 @@ A debugging tool for Visual Studio Code.
 
 1. Launch Visual Studio Code.
 2. Navigate to the Extensions sidebar.
-3. Search for Solidity Debugger Nexus.
+3. Search for Solidity Debugger Tool.
 4. Click Install.
 
 ## Configuration

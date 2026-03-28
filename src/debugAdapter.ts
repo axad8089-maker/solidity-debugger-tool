@@ -43,7 +43,7 @@ class SolidityDebugSession extends LoggingDebugSession {
         logger.setup(args.trace ? Logger.LogLevel.Verbose : Logger.LogLevel.Stop, false);
 
         // Send an output event to show the debugger is 'running'
-        this.sendEvent(new OutputEvent(`[Solidity Debugger Nexus] Starting EVM trace for: ${args.program}\n`, 'console'));
+        this.sendEvent(new OutputEvent(`[Solidity Debugger Tool] Starting EVM trace for: ${args.program}\n`, 'console'));
 
         if (args.stopOnEntry) {
             this.sendEvent(new StoppedEvent('entry', 1));
